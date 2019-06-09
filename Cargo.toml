@@ -1,0 +1,7 @@
+[package]
+name = "mix-base"
+version = "0.1.0"
+authors = ["Jonathan Brown <jbrown@mix-blockchain.org>"]
+edition = "2018"
+
+[dependencies]
